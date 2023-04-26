@@ -1,0 +1,23 @@
+/* *{
+    padding: 0;
+    margin:0;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  }
+  .body{
+  
+  background-color: navy;
+  
+  }
+  
+  .container {
+    width:90%;
+    margin:auto;
+    padding-top:100px;
+    display:flex;
+  }
+  
+  .left-content,.right-content {
+  
+    flex-basis: 50%;
+  }
+   */
